@@ -1,9 +1,8 @@
 <?php
-function area($r)
+//calculate area of circle algor
+function circle_area($r)
 {
     $A = pi()*($r*$r);
-    return $A;
+    echo $A;
 };
- echo area(4);
- echo "<br>";
- echo area(6);
+ circle_area(4);
