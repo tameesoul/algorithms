@@ -1,5 +1,5 @@
 <?php 
-
+//calculate area of parallelgram algorithm
 function parallelogram($b,$h)
 {
     $A = $b * $h;
