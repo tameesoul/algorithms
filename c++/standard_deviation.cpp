@@ -2,6 +2,8 @@
 #include <cmath>
 using namespace std;
 
+/// algorithms for Standard Deviation Calculator in cpp 
+
 float standard_deviation(int n, int size[]) {
     float sum = 0, variance = 0, avg = 0, stdev = 0;
 
